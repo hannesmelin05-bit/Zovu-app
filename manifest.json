@@ -1,0 +1,24 @@
+{
+  "name": "Zovu",
+  "short_name": "Zovu",
+  "description": "Match with people before you arrive. Built for event lovers and travelers.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#7C3AED",
+  "icons": [
+    {
+      "src": "zovu-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "zovu-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
